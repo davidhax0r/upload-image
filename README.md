@@ -1,17 +1,17 @@
-== upload-image ==
+**Upload Image**
+==================
 
-This is a simple utility for uploading image files on various free
-image hostings like imageshack.us. 
-
+This is a simple utility for uploading image files on various free image hostings like imageshack.us. 
 Idea and some code of program was inspired by Photo Uploader software 
-[http://cihar.com/software/photo-uploader/]
+<img src="http://upload-image.googlecode.com/svn/wiki/images/upload-image-0.3.png"/>
 
-== Features ==
+###Features
+------------
 
-  * upload image to the remote server
-  * display direct link to the uploaded image file
+  * Upload image to the remote server
+  * Display direct link to the uploaded image file
 
-== Structure ==
+###Structure
+--------------
 
-Program has modular structure so it's easy to implement support of
-new image hosting service.
+Program has modular structure so it's easy to implement support ofnew image hosting service.
