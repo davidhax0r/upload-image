@@ -10,6 +10,7 @@ This repo can be installed using the python package manager:
 ####Usage:
 Just type in the terminal emulator something like:
 ```upload-image -s imageshack.us google-logo.png```
+<a href="http://imgur.com/34B5Fhv"><img src="http://i.imgur.com/34B5Fhv.png" title="Hosted by imgur.com" /></a>
 
 ####Features:
   * Upload image to the remote server
