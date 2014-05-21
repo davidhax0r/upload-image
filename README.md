@@ -2,7 +2,11 @@
 ==================
 This is a simple utility for uploading image files on various free image hostings like imageshack.us. 
 Idea and some code of program was inspired by Photo Uploader software
-![alt text](http://upload-image.googlecode.com/svn/wiki/images/upload-image-0.3.png)
+
+###Usage
+---------
+Just type in the terminal emulator something like:
+```upload-image -s imageshack.us google-logo.png```
 
 ###Features
 ------------
@@ -13,4 +17,10 @@ Idea and some code of program was inspired by Photo Uploader software
 --------------
 Program has modular structure so it's easy to implement support ofnew image hosting service.
 
+###Currently (SVN-version) supports the following services:
+-------------------------------------------------------------
+ * imageshack.us
+ * radikal.ru
+ * picoodle.com is not supported anymore because it's blocked anonymous upload.
+ * 
 ####This library is located originally at https://code.google.com/p/upload-image/
