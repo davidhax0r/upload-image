@@ -1,7 +1,7 @@
 **Upload Image**
 ==================
 This is a simple utility for uploading image files on various free image hostings like imageshack.us. 
-Idea and some code of program was inspired by Photo Uploader software
+Idea and some code of program was inspired by Photo Uploader software. This library is originally located at https://code.google.com/p/upload-image/
 
 ###Usage
 ---------
@@ -22,5 +22,3 @@ Program has modular structure so it's easy to implement support ofnew image host
  * imageshack.us
  * radikal.ru
  * picoodle.com is not supported anymore because it's blocked anonymous upload.
- * 
-####This library is located originally at https://code.google.com/p/upload-image/
