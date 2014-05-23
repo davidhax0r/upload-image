@@ -1,7 +1,7 @@
 **Upload Image**
 ==================
 This is a simple utility for uploading image files on various free image hostings like imageshack.us. 
-Idea and some code of program was inspired by Photo Uploader software. This library is originally located at https://code.google.com/p/upload-image/
+Idea and some code of program was inspired by Photo Uploader software. This repo is a mirror of https://code.google.com/p/upload-image/
 
 ####Installation:
 This repo can be installed using the python package manager:
